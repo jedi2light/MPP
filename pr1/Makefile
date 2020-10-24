@@ -1,0 +1,3 @@
+include ../common.mk
+
+# You can redefine targets here if you need ...
